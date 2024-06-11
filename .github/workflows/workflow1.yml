@@ -8,7 +8,7 @@ jobs:
       - name: Print greetings
         run: echo "hello world"
       - name: print question
-        run: echo"what is your name ?"
+        run: echo "what is your name ?"
       
     
 
