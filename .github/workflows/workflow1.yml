@@ -4,10 +4,10 @@ jobs:
   first job:
     runs-on: ubuntu-latest
     steps:
-      -name: greeting
-       run: echo "helloo"
-      -name: wish
-       run: echo "name"
+      - name: greeting
+        run: echo "helloo"
+      - name: wish
+        run: echo "name"
       
     
 
